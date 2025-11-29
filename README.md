@@ -1,8 +1,8 @@
-# Schedule Plotter - College Schedule Maker
+# 🍀 Schedule Plotter - College Schedule Maker
 
 A comprehensive web-based schedule management system designed specifically for college students, with special attention to the needs of irregular students navigating complex academic paths.
 
-## 📋 Table of Contents
+## 🌞 Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -20,7 +20,7 @@ A comprehensive web-based schedule management system designed specifically for c
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
-## 🎯 Overview
+## 🌞 Overview
 
 **Schedule Plotter** is a React-based web application that allows college students to manually create, manage, and visualize their class schedules. Unlike traditional scheduling tools, this system is built with the flexibility needed by irregular students who must navigate prerequisite chains, varying credit loads, and non-linear academic paths.
 
@@ -33,9 +33,9 @@ A comprehensive web-based schedule management system designed specifically for c
 - **Export & Share**: Export your schedule as an image for easy sharing and printing
 - **No Database Required**: All data stored locally in your browser - complete privacy
 
-## ✨ Features
+## 🌞 Features
 
-### Core Scheduling Features ✅
+### Core Scheduling Features 
 - [x] Drag-and-drop interface for adding classes to time slots
 - [x] Multiple schedule templates (weekly, bi-weekly, custom patterns)
 - [x] Semester/term-based organization with archiving
@@ -84,7 +84,7 @@ A comprehensive web-based schedule management system designed specifically for c
 - [x] Privacy-first design (no server, no tracking)
       
 
-## 🛠 Tech Stack
+## 🌞 Tech Stack
 
 ### Frontend
 - **React** 18.2+ - UI library
@@ -107,7 +107,7 @@ A comprehensive web-based schedule management system designed specifically for c
 - **localStorage** - Client-side data persistence
 - **Service Workers** - PWA offline support (future)
 
-## 🚀 Getting Started
+## 🌞 Getting Started
 
 ### Prerequisites
 
@@ -170,7 +170,7 @@ The optimized production build will be in the `build/` folder.
 npm run preview
 ```
 
-## 📁 Project Structure
+## 🌞 Project Structure
 
 ```
 schedule-plotter/
@@ -242,7 +242,7 @@ Utility functions for time manipulation:
 #### `src/utils/conflictDetector.js`
 Algorithm to detect scheduling conflicts between classes.
 
-## 📖 Usage Guide
+## 🌞 Usage Guide
 
 ### Creating Your First Schedule
 
@@ -322,7 +322,7 @@ Algorithm to detect scheduling conflicts between classes.
 - Switch between views (weekly, daily, list)
 - Enable dark mode
 
-## 🗺 Development Roadmap
+## 🌞 Development Roadmap
 
 ### Phase 1: Core Foundation ✅ (Current)
 - [x] Project setup
@@ -331,7 +331,7 @@ Algorithm to detect scheduling conflicts between classes.
 - [x] Utility functions
 - [x] GitHub repository
 
-### Phase 2: Schedule Grid 🚧 (In Progress)
+### Phase 2: Schedule Grid  (In Progress)
 - [ ] Time column component
 - [ ] Day columns component
 - [ ] Grid layout
@@ -396,15 +396,9 @@ Algorithm to detect scheduling conflicts between classes.
 - [ ] Mobile native apps
 
 
-**Project Link:** [https://github.com/yourusername/schedule-plotter](https://github.com/yourusername/schedule-plotter)
+**Project Link:** (https://github.com/sewadotwav/schedule-plotter)
 
-### Support
-
-- 🐛 **Bug Reports:** [Open an issue](https://github.com/yourusername/schedule-plotter/issues)
-- 💡 **Feature Requests:** [Start a discussion](https://github.com/yourusername/schedule-plotter/discussions)
-- ❓ **Questions:** Check [Discussions](https://github.com/yourusername/schedule-plotter/discussions) or open an issue
-
-## 🙏 Acknowledgments
+## 🌞 Acknowledgments
 
 ### Inspiration
 - Inspired by the challenges faced by irregular college students
@@ -424,7 +418,7 @@ Algorithm to detect scheduling conflicts between classes.
 - [Stack Overflow Community](https://stackoverflow.com/)
 
 
-## 🎓 For Students
+## 🐞 For Students
 
 This tool was built **by students, for students**. We understand:
 - The struggle of finding the right class combinations
@@ -435,7 +429,7 @@ This tool was built **by students, for students**. We understand:
 
 ---
 
-## 🚀 Quick Start (TL;DR)
+## 🌞 Quick Start (TL;DR)
 
 ```bash
 # Clone
@@ -456,20 +450,9 @@ npm run build
 
 <div align="center">
 
-**Made with ❤️ for college students everywhere**
-
-⭐ **Star this repo if you find it helpful!** ⭐
-
-[Report Bug](https://github.com/yourusername/schedule-plotter/issues) · [Request Feature](https://github.com/yourusername/schedule-plotter/issues) · [Documentation](https://github.com/yourusername/schedule-plotter/wiki)
+**Made with love for college students everywhere (⁠≧⁠▽⁠≦⁠)**
 
 </div>
-
----
-
-### 📝 Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
-
 
 ---
 
